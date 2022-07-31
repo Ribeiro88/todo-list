@@ -18,4 +18,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## Preview
 
-<img alt="gif" title="Gif App" src="./github/todoList.gif" width ="100%"/>
+<img alt="gif" title="To Do List" src="./github/todoList.gif" width ="100%"/>
