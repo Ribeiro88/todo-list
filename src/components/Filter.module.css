@@ -1,0 +1,28 @@
+.filter {
+ display: flex;
+ gap: 0.5rem;
+ align-items: center;
+}
+
+.filter button {
+ background: transparent;
+ border: 0;
+ font-weight: bold;
+}
+
+.filter button.criadas {
+ color: var(--blue);
+}
+
+.filter button.concluidas {
+ color: var(--purple);
+}
+
+.filter span {
+ background: var(--gray-400);
+ color: var(--gray-200);
+ font-size: 0.75rem;
+ font-weight: bold;
+ padding: 0.125rem 0.5rem;
+ border-radius: 8px;
+}
