@@ -1,6 +1,6 @@
 ## 💻 Projeto
 
-Esse projeto foi desenvolvido para o desafio do curso ignite da Rocketseat. Este projeto é um to to list, onde você pode criar tarefas, marcar como concluídas e deletar.
+Esse projeto foi desenvolvido para o desafio do curso ignite da Rocketseat. Este projeto é um to do list, onde você pode criar tarefas, marcar como concluídas e deletar.
 
 ## Iniciando o projeto
 
